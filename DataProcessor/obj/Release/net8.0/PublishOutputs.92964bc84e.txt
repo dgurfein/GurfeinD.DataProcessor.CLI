@@ -1,7 +1,0 @@
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\DataProcessor.exe
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\DataProcessor.dll
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\DataProcessor.deps.json
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\DataProcessor.runtimeconfig.json
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\DataProcessor.pdb
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.dll
-C:\Projects\git\LexTech\LexTech.TechTest\DataProcessor\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
