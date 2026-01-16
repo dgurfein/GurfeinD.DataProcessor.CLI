@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXscW/uHM1w=",
+  "dgSpecHash": "R6TDl9w08Ms=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\git\\LexTech\\LexTech.TechTest\\DataProcessor\\DataProcessor.csproj",
+  "projectFilePath": "C:\\Projects\\git\\LexTech\\LexTech.TechTest.bck\\DataProcessor\\DataProcessor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.2\\microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512"
