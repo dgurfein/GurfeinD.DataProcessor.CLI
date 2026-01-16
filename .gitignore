@@ -21,6 +21,8 @@ temp/
 conf/
 db/
 locks/
+bin/
+obj/
 
 # Environment Specific appsettings (may include sensitive information)
 #appsettings.*.json
