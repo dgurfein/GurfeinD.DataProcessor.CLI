@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DataProcessor.Tests/DataProcessor.Tests.csproj" Id="5884931f-8e3f-4a4c-ab9c-7a6ebac84ce5" />
+  <Project Path="DataProcessor/DataProcessor.csproj" Id="85ea9a9b-f1d7-465d-af5a-77196741baff" />
+</Solution>
